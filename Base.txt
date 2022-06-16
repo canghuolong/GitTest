@@ -1,7 +1,4 @@
 Origin
-A
-A
-A
-C
-C
-C
+B
+B
+B
